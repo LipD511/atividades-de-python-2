@@ -1,2 +1,2 @@
 numero = int(input("Informe o numero"))
-print(numero * 5)
+print(numero * 2)
